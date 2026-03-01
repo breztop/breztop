@@ -23,7 +23,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,js,react,vue,nodejs,python,docker,kubernetes,postgres,redis,linux,git,github,githubactions,vscode&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,go,godot,python,docker,postgres,redis,linux,git,github,githubactions,vscode&perline=8" alt="Tech stack" />
 </p>
 
 ## GitHub Stats
