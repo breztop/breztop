@@ -46,7 +46,7 @@
 ## Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=breztop&amp;theme=algolia&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=8" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=breztop&amp;theme=algolia&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=6" alt="Trophies" />
 </p>
 
 ## Connect
