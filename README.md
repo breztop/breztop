@@ -29,12 +29,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=breztop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=breztop&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=breztop&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=breztop&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breztop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breztop&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6&amp;hide_progress=true" alt="Top languages" />
 </p>
 
 ## Activity Graph
@@ -46,7 +46,7 @@
 ## Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=breztop&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=breztop&amp;theme=algolia&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=8" alt="Trophies" />
 </p>
 
 ## Connect
